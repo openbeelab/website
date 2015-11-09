@@ -36,7 +36,7 @@ theme = "hugo-freelancer-theme"
         # Copy your own image into './static/img/'' if you wish
         image = "profile.png"
         name = "OpenBeeLab.org"
-        subtitle = "Hackers - Bees - Scientists"
+        subtitle = "Hackers & Bees "
 
 
     [params.portfolio]
@@ -57,7 +57,7 @@ theme = "hugo-freelancer-theme"
         title = "About"
         # The about text is splitted into a left and right column
         left = "OpenBeeLab est un programme de recherches Libres et Open-Source autour des abeilles. On produit logiciels, matériels, capteurs, dispositifs, gestes artistiques, et publications... et on partage tout ça."
-        right = "OpenBeelab is Free Licences and open-source research programm about bees. We do software, hardware, databases, sensors, art, publications... and we share all of this."
+        right = "OpenBeelab is Free and open-source research programm about bees. We do software, hardware, databases, sensors, art, publications... and we share all of this."
 
         [params.about.button]
             text = "Download theme"
